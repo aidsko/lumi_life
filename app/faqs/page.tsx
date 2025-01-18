@@ -72,7 +72,7 @@ export default function Faqs() {
 
                 <div className="space-y-4">
                   <h3 className="text-2xl font-semibold">
-                    What can I expect after a contact is sent?
+                    What can I expect after a contact request is sent?
                   </h3>
                   <p className="text-gray-600">
                     We will contact you to see if we would be a good fit working
