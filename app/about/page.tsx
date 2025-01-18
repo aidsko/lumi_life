@@ -96,10 +96,11 @@ export default function About() {
                     decided to pursue our passions and opened Lumi Life Therapy.
                   </p>
                   <p className="mt-6 leading-relaxed max-w-3xl mx-auto">
-                    We choose the name "Lumi Life" as an abbreviation for
-                    "illuminate your life." We believe therapy can illuminate
-                    times that feel dark, improve your life's circumstances and
-                    give guidance to the life you want to live.
+                    We choose the name &quot;Lumi Life&quot; as an abbreviation
+                    for &quot;illuminate your life.&quot; We believe therapy can
+                    illuminate times that feel dark, improve your life&apos;s
+                    circumstances and give guidance to the life you want to
+                    live.
                   </p>
                 </div>
               </div>
@@ -110,9 +111,9 @@ export default function About() {
             <div className="max-w-screen-lg mx-auto px-4">
               <p className="italic text-gray-600 text-center text-lg">
                 Chansley and Diane are licensed clinical social workers in the
-                state of Hawaii, a requirement that involves a master's degree,
-                3,000 supervised clinical hours in an agency setting, and a
-                clinical exam.
+                state of Hawaii, a requirement that involves a master&apos;s
+                degree, 3,000 supervised clinical hours in an agency setting,
+                and a clinical exam.
               </p>
             </div>
           </section>
@@ -123,8 +124,8 @@ export default function About() {
               <div className="space-y-4">
                 <h2 className="text-4xl md:text-5xl">Take Action Today</h2>
                 <p className="text-xl md:text-2xl text-white/90 max-w-2xl mx-auto">
-                  Want to make an appointment? We'd love to hear from you and
-                  help you start your journey.
+                  Want to make an appointment? We&apos;d love to hear from you
+                  and help you start your journey.
                 </p>
               </div>
               <Link href="/make-an-appointment">

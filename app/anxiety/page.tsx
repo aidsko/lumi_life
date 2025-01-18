@@ -45,7 +45,7 @@ export default function Anxiety() {
                   </p>
                   <p>
                     But on the inside, you are constantly anxious and worried.
-                    You're worried about the relationships in your life,
+                    You&apos;re worried about the relationships in your life,
                     particularly the ones that are important to you.
                     Friendships, co-workers, family, romantic partners - if
                     there is a rupture, it causes you great stress and anxiety.
@@ -82,18 +82,18 @@ export default function Anxiety() {
                     people will judge you or be upset with you.
                   </p>
                   <p>
-                    You've felt like you were too much for key people in your
-                    life - too needy, too much, too emotional.
+                    You&apos;ve felt like you were too much for key people in
+                    your life - too needy, too much, too emotional.
                   </p>
                   <p>
                     You may be easily triggered and become upset when you feel
                     abandoned or disconnected from your loved ones, when all you
                     desire is to connect with them. In the midst of all this,
-                    you've felt very alone, guilty and ashamed.
+                    you&apos;ve felt very alone, guilty and ashamed.
                   </p>
                   <p>
                     Many of our clients have felt these ways for way too long,
-                    and you're not alone.
+                    and you&apos;re not alone.
                   </p>
                 </div>
               </div>
@@ -110,17 +110,17 @@ export default function Anxiety() {
                 <p>
                   We will utilize an evidence-based modality called acceptance
                   and commitment therapy (ACT) to deal with anxiety more
-                  effectively. What does evidence-based mean? It means there’s
-                  been a lot of research done on this therapy model that has
-                  been proven to improve symptoms for people suffering with
-                  anxiety.
+                  effectively. What does evidence-based mean? It means
+                  there&apos;s been a lot of research done on this therapy model
+                  that has been proven to improve symptoms for people suffering
+                  with anxiety.
                 </p>
                 <p>
-                  However, it’s important to note that there are no guarantees
-                  as we are all individuals with different experiences. What we
-                  can guarantee is our dedication to meeting you where you are
-                  and support you in your journey the best we can. Because we’ve
-                  been there before.
+                  However, it&apos;s important to note that there are no
+                  guarantees as we are all individuals with different
+                  experiences. What we can guarantee is our dedication to
+                  meeting you where you are and support you in your journey the
+                  best we can. Because we&apos;ve been there before.
                 </p>
               </div>
             </div>

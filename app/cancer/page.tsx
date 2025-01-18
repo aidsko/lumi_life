@@ -2,7 +2,6 @@ import Footer from "@/components/footer";
 import Navbar from "@/components/navbar";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
-import { Separator } from "@/components/ui/separator";
 import { Compass, Heart, Users } from "lucide-react";
 
 export default function Cancer() {
@@ -49,23 +48,23 @@ export default function Cancer() {
                 of uncertainty.
               </p>
               <blockquote className="text-2xl font-semibold italic border-l-4 border-gray-900 pl-4 py-2">
-                People don't plan to get sick.
+                People don&apos;t plan to get sick.
               </blockquote>
               <p className="text-lg leading-relaxed">
                 Initially, you are focused on getting through treatment - the
                 countless appointments, scans, and labs. Survival is your main
-                goal. When treatment is over, you're starting to process what
-                your body has been through, what you've overcome. You're trying
-                to resume the life you had before cancer and regain a sense of
-                normalcy.
+                goal. When treatment is over, you&apos;re starting to process
+                what your body has been through, what you&apos;ve overcome.
+                You&apos;re trying to resume the life you had before cancer and
+                regain a sense of normalcy.
               </p>
               <p className="text-lg leading-relaxed">
-                Or, that you've witnessed a loved one through cancer and have
-                put your needs aside to focus on their care. You have always put
-                them first during their treatment. But, now, you're processing
-                what this all meant for you. You may be feeling all kinds of
-                emotions, such as anger, guilt, and sadness, and it can feel
-                overwhelming.
+                Or, that you&apos;ve witnessed a loved one through cancer and
+                have put your needs aside to focus on their care. You have
+                always put them first during their treatment. But, now,
+                you&apos;re processing what this all meant for you. You may be
+                feeling all kinds of emotions, such as anger, guilt, and
+                sadness, and it can feel overwhelming.
               </p>
               <p className="text-lg leading-relaxed">
                 We are here to walk in this journey with you and provide tools
@@ -76,7 +75,7 @@ export default function Cancer() {
                 We can provide support no matter where you are in this journey.
               </p>
               <p className="text-2xl  text-center py-4">
-                You don't have to do this alone.
+                You don&apos;t have to do this alone.
               </p>
             </div>
           </div>
@@ -111,9 +110,9 @@ export default function Cancer() {
             <Card className="mt-12 bg-primary/5 border-none rounded-none">
               <CardContent className="pt-6">
                 <p className="text-center text-lg text-gray-800 leading-relaxed">
-                  No matter where you are in your cancer journey, we're here to
-                  provide the support and resources you need. Take the first
-                  step towards a more empowered and supported experience.
+                  No matter where you are in your cancer journey, we&apos;re
+                  here to provide the support and resources you need. Take the
+                  first step towards a more empowered and supported experience.
                 </p>
               </CardContent>
             </Card>

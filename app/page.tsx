@@ -6,7 +6,6 @@ import Link from "next/link";
 import {
   Dialog,
   DialogContent,
-  DialogDescription,
   DialogHeader,
   DialogTitle,
   DialogTrigger,
@@ -61,7 +60,7 @@ export default function LandingPage() {
               <div className="space-y-4">
                 <p>
                   But on the inside, you are constantly anxious and worried.
-                  You're worried about the relationships in your life,
+                  You&apos;re worried about the relationships in your life,
                   particularly the ones that are important to you.
                 </p>
                 <p className="text-gray-700">
@@ -81,16 +80,16 @@ export default function LandingPage() {
               <div className="space-y-4">
                 <p>
                   You have a hard time saying no because you are afraid that
-                  people will judge you or be upset with you. You've felt like
-                  you were too much for key people in your life - too needy, too
-                  much, too emotional.
+                  people will judge you or be upset with you. You&apos;ve felt
+                  like you were too much for key people in your life - too
+                  needy, too much, too emotional.
                 </p>
 
                 <p>
                   You may be easily triggered and become upset when you feel
                   abandoned or disconnected from your loved ones, when all you
                   desire is to connect with them. In the midst of all this,
-                  you've felt very alone, guilty and ashamed.
+                  you&apos;ve felt very alone, guilty and ashamed.
                 </p>
               </div>
 
@@ -100,8 +99,8 @@ export default function LandingPage() {
                   relationships that comes from within.
                 </p>
                 <p className="text-gray-700">
-                  You have felt this way for too long, and you're not alone. We
-                  can help.
+                  You have felt this way for too long, and you&apos;re not
+                  alone. We can help.
                 </p>
               </div>
             </div>
@@ -260,8 +259,8 @@ export default function LandingPage() {
               <div className="space-y-4">
                 <h2 className="text-4xl md:text-5xl">Take Action Today</h2>
                 <p className="text-xl md:text-2xl text-white/90 max-w-2xl mx-auto">
-                  Want to make an appointment? We'd love to hear from you and
-                  help you start your journey.
+                  Want to make an appointment? We&apos;d love to hear from you
+                  and help you start your journey.
                 </p>
               </div>
               <Link href="/make-an-appointment">

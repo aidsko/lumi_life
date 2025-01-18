@@ -28,7 +28,7 @@ export default function Faqs() {
                 Frequently Asked Questions
               </h1>
               <h1 className="text-4xl text-center  text-white animate-fadeIn pt-5">
-                We're here to help.
+                We&apos;re here to help.
               </h1>
             </div>
           </div>
@@ -52,7 +52,7 @@ export default function Faqs() {
 
                 <div className="space-y-4">
                   <h3 className="text-2xl font-semibold">
-                    What if I don't have insurance?
+                    What if I don&apos;t have insurance?
                   </h3>
                   <p className="text-gray-600">
                     The therapy fee is $150/session. We do have sliding scale
@@ -66,7 +66,7 @@ export default function Faqs() {
                   </h3>
                   <p className="text-gray-600">
                     We are currently accepting new clients. Please go to
-                    "Schedule An Appointment" to contact us!
+                    &quot;Schedule An Appointment&quot; to contact us!
                   </p>
                 </div>
 
@@ -133,8 +133,8 @@ export default function Faqs() {
               <div className="space-y-4">
                 <h2 className="text-4xl md:text-5xl">Take Action Today</h2>
                 <p className="text-xl md:text-2xl text-white/90 max-w-2xl mx-auto">
-                  Want to make an appointment? We'd love to hear from you and
-                  help you start your journey.
+                  Want to make an appointment? We&apos;d love to hear from you
+                  and help you start your journey.
                 </p>
               </div>
               <Link href="/make-an-appointment">
