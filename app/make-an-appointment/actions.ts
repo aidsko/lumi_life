@@ -18,7 +18,7 @@ export async function sendEmail(
 
   try {
     const result = await mg.messages.create(process.env.MAILGUN_DOMAIN || "", {
-      from: "Contact Form <mailgun@sandboxbac9f28292c14c4f8d7f2661fc38a5a0.mailgun.org>",
+      from: "Contact Form <postmaster@lumilifetherapy.com>",
       to: ["contact@lumilifetherapy.com"],
       subject: `Message from ${firstName} ${lastName}`,
       text: message,
