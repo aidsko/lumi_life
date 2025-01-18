@@ -16,14 +16,10 @@ export async function sendEmail(
     key: process.env.MAILGUN_API_KEY || "",
   });
 
-  if (!process.env.MAILGUN_FROM_EMAIL) {
-    throw new Error("MAILGUN_FROM_EMAIL is not defined");
-  }
-
   try {
     const result = await mg.messages.create(process.env.MAILGUN_DOMAIN || "", {
       from: "Contact Form <mailgun@sandboxbac9f28292c14c4f8d7f2661fc38a5a0.mailgun.org>",
-      to: [process.env.MAILGUN_FROM_EMAIL],
+      to: ["contact@lumilifetherapy.com"],
       subject: `Message from ${firstName} ${lastName}`,
       text: message,
       html: `<div>
